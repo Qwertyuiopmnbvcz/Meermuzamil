@@ -1,6 +1,6 @@
 # Meermuzamil<br>
 ᴍʏ ғɪʀsᴛ ᴘʀᴏᴊᴇᴄᴛ 🥰🥰<br>
-<h1>ᴍᴜᴢᴀᴍɪʟ<font color="pink"></h1>
+<h1><marquee><ᴍᴜᴢᴀᴍɪʟ<font color="pink"></h1></marquee>
  <h1>ᴍᴜᴢᴀᴍɪʟ ᴀʜᴍᴀᴅ ᴍɪʀ </h1>
 <body>
 <table border="2"width="100%"height="700px">
@@ -39,7 +39,7 @@
 </tr>
 </body>
 </html>
- <ᴛʀ>
-  <ᴛʜ colspan="6"</ᴛʜ>
+ <th>
+  <th colspan="6"</th>
   <font size="6" color="pink">ᴍᴜᴢᴀᴍɪʟ</font>
- </ᴛʀ>    ᴀᴜᴛʜᴏʀ ɴᴀᴍᴇ: ᴍᴜᴢᴀᴍɪʟ ᴍɪʀ 
+ </tr>    ᴀᴜᴛʜᴏʀ ɴᴀᴍᴇ: ᴍᴜᴢᴀᴍɪʟ ᴍɪʀ 
