@@ -44,12 +44,11 @@
                              
   <html>
 <head>
-<title>Form in Table</title>
 </head>
 <body background="img/02.jpg">
 <form>
 
-<h1 align="center"> <font color="white"> Techno Brainz Sign Up Page </font> </h1>
+
 
 <table border="1" width="40%" height="600px" align="center" bgcolor="black">
 <!---row1--->
@@ -73,21 +72,21 @@
 <!---row4--->
 <tr >
 <th><font color="yellow">
-<label>Mobile No.9103594759</label></th>
+<label>Mobile No:9103594759</label></th>
 <th><input type="number"></th>
 </tr>
 
 <!---row5--->
 <tr >
 <th><font color="yellow">
-<label>Email</label></th>
+<label>Emailᴍᴜᴢᴀᴍɪʟᴍᴇᴇʀ598@ɢᴍᴀɪʟ.ᴄᴏᴍ</label></th>
 <th><input type="email"></th>
 </tr>
 
 <!---row6--->
 <tr >
 <th><font color="yellow">
-<label>Gender</label></th>
+<label>Gender :ᴍᴀʟᴇ</label></th>
 <th><font color="yellow">
 <input type="radio" name="gender">Male 
 <input type="radio" name="gender">Female
@@ -100,10 +99,7 @@
 <label>Country</label></th>
 <th>
 <select name="city">
-<option value="India">India</option>
-<option value="South Africa">South Africa</option>
-<option value="America">America</option>
-<option value="Japan">Japan</option>
+ ʙᴀɴᴅɪᴘᴏʀᴀ
 </th>
 </tr>
 
