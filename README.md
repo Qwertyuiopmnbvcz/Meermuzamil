@@ -38,8 +38,7 @@
 
 </tr>
 </body>
-</html>
- <th>
-  <th colspan="6"</th>
-  <font size="6" color="pink">ᴍᴜᴢᴀᴍɪʟ</font>
- </tr>    ᴀᴜᴛʜᴏʀ ɴᴀᴍᴇ: ᴍᴜᴢᴀᴍɪʟ ᴍɪʀ 
+</html> 
+<br>
+    ᴀᴜᴛʜᴏʀ ɴᴀᴍᴇ: ᴍᴜᴢᴀᴍɪʟ ᴍɪʀ </br>
+                             
