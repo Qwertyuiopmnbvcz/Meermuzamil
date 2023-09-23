@@ -99,7 +99,9 @@
 <label>Country</label></th>
 <th>
 <select name="city">
- ʙᴀɴᴅɪᴘᴏʀᴀ
+ ɪɴᴅɪᴀ 
+ <select name="distact"> 
+  ʙᴀɴᴅɪᴘᴏʀᴀ
 </th>
 </tr>
 
