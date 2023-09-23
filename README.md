@@ -42,7 +42,7 @@
 <br>
     ᴀᴜᴛʜᴏʀ ɴᴀᴍᴇ: ᴍᴜᴢᴀᴍɪʟ ᴍɪʀ </br>
                              
-  <html>
+  
 <head>
 </head>
 <body background="img/02.jpg">
