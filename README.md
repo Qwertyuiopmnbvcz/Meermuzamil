@@ -60,7 +60,7 @@
 <!---row2--->
 <tr>
 <th><font color="yellow">
-<label>Name</label></th>
+<label>Name ᴍᴜᴢᴀᴍɪʟ </label></th>
 <th><input type="text"></th>
 </tr>
 
@@ -73,7 +73,7 @@
 <!---row4--->
 <tr >
 <th><font color="yellow">
-<label>Mobile No.</label></th>
+<label>Mobile No.9103594759</label></th>
 <th><input type="number"></th>
 </tr>
 
