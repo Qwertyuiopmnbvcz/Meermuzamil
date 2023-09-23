@@ -1,8 +1,7 @@
 # Meermuzamil<br>
 ᴍʏ ғɪʀsᴛ ᴘʀᴏᴊᴇᴄᴛ 🥰🥰<br>
 <h1>ᴍᴜᴢᴀᴍɪʟ<font color="pink"></h1>
- <title></title>
-</head>
+ <h1>ᴍᴜᴢᴀᴍɪʟ ᴀʜᴍᴀᴅ ᴍɪʀ </h1>
 <body>
 <table border="2"width="100%"height="700px">
 <tr>
